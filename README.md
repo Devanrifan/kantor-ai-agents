@@ -414,3 +414,4 @@ src/               Three.js: scene, karakter, kamera, panel chat
 - YouTube: https://www.youtube.com/@devanprogramming
 - LinkedIn: https://id.linkedin.com/in/devanrifan
 - Website: https://devanrifan.com/
+- Tiktok: https://www.tiktok.com/@devanrifan
